@@ -1,2 +1,2 @@
-# intradialytic_hypotension
+# Detecting Intradialytic Hypotension
 Detection of intradialytic hypotension (IDH)
